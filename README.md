@@ -1,4 +1,4 @@
-# Internet-programming-lunch-picker
+# Internet-programming-lunchpicker
 一款可以幫助你挑選午餐的小助理，解決您勞心耗神的午餐選擇困難症
 # 🍱 LunchPicker
 **「欸午餐要吃什麼？」抽籤器 – 網際網路程式設計第五組專案**
